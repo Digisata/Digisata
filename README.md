@@ -1,3 +1,4 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Digisata.Digisata" />
 <h1>Good day fellas 👋</h1>
 
 <p align="center">
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2 align="center">Keep in touch with me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Keep In Touch With Me On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 <a href="mailto: hnaufal123@gmail.com">
