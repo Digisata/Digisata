@@ -47,6 +47,9 @@
  <a href="https://stackoverflow.com/users/9103193/nopal">
  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
+ <a href="https://nopal.vercel.app/">
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
  <a href="https://leetcode.com/hnaufal123/">
  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
