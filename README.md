@@ -1,3 +1,13 @@
+<h1>Good day fellas 👋</h1>
+
+<p align="center">
+<img src="images/banner.png" />
+</p>
+
+<p align="center">
+  Did you ever wonder how our universe 🌏 exists? What are humans 🗿 supposed to do with their existence? When I was a kid 👶 I often thought 🧠 about those kinds of questions even when I grew up 🧑 I was still questioning random questions that maybe other people don't have time ⌛ to think about it. I am not focused on what those answers are but I just love ❤️ to think about them and wonder 🤔 for myself. How about you? do you think the same as me? Ouu ya greeting 🤝, I am Naufal and hope will see you around really soon. Cheers 🥂
+</p>
+
 <h2 align="center">Tech Stack, Platform, and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
@@ -14,12 +24,14 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2 align="center">Say Hi To Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Keep in touch with me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 <a href="mailto: hnaufal123@gmail.com">
@@ -30,6 +42,17 @@
 </a>
  <a href="https://twitter.com/Digisata">
  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+</a>
+ <a href="https://stackoverflow.com/users/9103193/nopal">
+ <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+ <a href="https://leetcode.com/hnaufal123/">
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</a>
+</a>
+ <a href="https://www.codewars.com/users/digisata">
+ <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
 </a>
 </p>
 
@@ -43,7 +66,7 @@
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- 
+
 <br>
 
 <p align = "center">
