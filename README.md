@@ -12,10 +12,10 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Digisata&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+ <img  src="https://github-profile-trophy.vercel.app/?username=Digisata&theme=radical&title=Stars,Commits,PullRequest,Issues&column=-1&margin-w=15" />
+</p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Digisata&theme=redical">
-</p> 
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Digisata&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 <hr>
