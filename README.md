@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Did you ever wonder how our universe 🌏 exists? What are humans 🗿 supposed to do with their existence? When I was a kid 👶 I often thought 🧠 about those kinds of questions even when I grew up 🧑 I was still questioning random questions that maybe other people don't have time ⌛ to think about it. I am not focused on what those answers are but I just love ❤️ to think about them and wonder 🤔 for myself. How about you? do you think the same as me? Ouu ya greeting 🤝, I am Naufal and hope will see you around really soon. Cheers 🥂
+  Did you ever wonder how our universe 🌏 exists? What are humans 🗿 supposed to do with their existence? When I was a kid 👶 I often thought 🧠 about those kinds of questions even when I grew up 🧑 I was still questioning random questions that maybe other people don't have time ⌛ to think about it. I am not focused on what those answers are but I just love ❤️ to think about them and wonder 🤔 for myself. How about you? do you think the same as me? Ouu ya greeting 🤝, I am Naufal, a mediocre who loves to code and share and I hope will see you around really soon. Cheers 🥂
 </p>
 
 <h2 align="center">Tech Stack, Platform, and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
